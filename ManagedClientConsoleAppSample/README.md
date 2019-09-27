@@ -42,7 +42,7 @@ If you are a Microsoft Account backed Azure DevOps account please skip this step
 
 ## Step 3: Install and configure ADAL (optional)
 
-Package: `Microsoft.Identity.Model.Clients.ActiveDirectory` has already been installed and configured in the sample, but if you are adding to your own project you will need to [install and configure it yourself](https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory). 
+Package: `Microsoft.IdentityModel.Clients.ActiveDirectory` has already been installed and configured in the sample, but if you are adding to your own project you will need to [install and configure it yourself](https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory). 
 
 ## Step 4a: Run the sample (AAD backed Azure DevOps account)
 
